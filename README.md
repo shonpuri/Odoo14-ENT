@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](http://runbot.odoo.com/runbot/badge/flat/7/master.svg)](http://runbot.odoo.com/runbot/repo/git-github-com-odoo-enterprise-7)
 [![Tech Doc](http://img.shields.io/badge/14.0-docs-875A7B.svg?style=flat)](http://www.odoo.com/documentation/14.0)
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat)](https://www.odoo.com/forum/help-1)
@@ -46,3 +47,7 @@ To add the odoo-dev remote use this command:
 To fetch odoo merge pull requests refs use this command:
 
     $ ./setup/setup_dev.py setup_git_review
+=======
+# Odoo15-ENT-code
+Odoo Ent Code
+>>>>>>> 93aa0cb2722454232aad00229f519d3fbd1ba3f1
